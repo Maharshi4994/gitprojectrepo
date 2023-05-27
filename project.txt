@@ -1,2 +1,3 @@
 hello new project is ready
 new line added from github
+new code added from git bash
